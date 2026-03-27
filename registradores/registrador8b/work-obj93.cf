@@ -1,0 +1,16 @@
+v 4
+file . "tb_regCarga8bit.vhdl" "985538df086ca1aa33ad76bc45c32701dd79d8e1" "20251021140748.290":
+  entity tb_reg8 at 1( 0) + 0 on 47;
+  architecture tb of tb_reg8 at 8( 105) + 0 on 48;
+file . "FFJK_D.vhdl" "58da03be4d8b289ae81287f8803c316e8d421d38" "20251021140748.281":
+  entity ffjkd at 1( 0) + 0 on 39;
+  architecture ff of ffjkd at 13( 288) + 0 on 40;
+file . "regCarga1bit.vhdl" "593b5be9eab5f0c05fa365db8ad84bb1c8539d2a" "20251021140748.285":
+  entity regcarga1bit at 1( 0) + 0 on 41;
+  architecture reg1bit of regcarga1bit at 14( 252) + 0 on 42;
+file . "regCarga8bit.vhdl" "ebb65b3fc03a8ea2b245c2f17bdee0ebf755d682" "20251021140748.287":
+  entity regcarga8bit at 1( 0) + 0 on 43;
+  architecture reg8bit of regcarga8bit at 14( 290) + 0 on 44;
+file . "tb_FFJK_D.vhdl" "498c98e473e7e8e62c225ba553b011c4b0a29648" "20251021140748.288":
+  entity tb_ffjkd at 1( 0) + 0 on 45;
+  architecture test of tb_ffjkd at 8( 107) + 0 on 46;

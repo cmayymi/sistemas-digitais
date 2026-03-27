@@ -1,0 +1,37 @@
+v 4
+file . "pl_and_2.vhdl" "9a659a3031333395f3aa956a6a43e74a70918ceb" "20250607234903.278":
+  entity pl_and_2 at 4( 59) + 0 on 35;
+  architecture comportamento of pl_and_2 at 13( 187) + 0 on 36;
+file . "pl_and_3.vhdl" "ab975854771d1808ab59c63314ddfd703a3e8e8c" "20250607234903.279":
+  entity pl_and_3 at 4( 62) + 0 on 37;
+  architecture comportamento of pl_and_3 at 14( 220) + 0 on 38;
+file . "pl_and_4.vhdl" "d22bb9ca51c0a694dde0a852a6520ad8cfbb7d97" "20250607234903.282":
+  entity pl_and_4 at 4( 62) + 0 on 39;
+  architecture comportamento of pl_and_4 at 15( 241) + 0 on 40;
+file . "pl_and_nand_nor_xor_xnor_2_tb.vhdl" "47d46cad7ee6dd87b215377f93df73ce1356f4f9" "20250607234903.283":
+  entity pl_and_nand_nor_xor_xnor_2_tb at 1( 0) + 0 on 41;
+  architecture tb of pl_and_nand_nor_xor_xnor_2_tb at 5( 102) + 0 on 42;
+file . "pl_and_or_3_tb.vhdl" "c4cfd9fcf620e38f846892dceed483766f3b12b1" "20250607234903.285":
+  entity pl_and_or_3_tb at 1( 0) + 0 on 43;
+  architecture tb of pl_and_or_3_tb at 5( 73) + 0 on 44;
+file . "pl_and_or_4_tb.vhdl" "c9a33c0eba6519e5974b007b4059b38a48e678f1" "20250607234903.287":
+  entity pl_and_or_4_tb at 1( 0) + 0 on 45;
+  architecture tb of pl_and_or_4_tb at 5( 73) + 0 on 46;
+file . "pl_nand_2.vhdl" "d3d56b3a6c7b8b7cbeb8d12cae1b9dbbaa7d770a" "20250607234903.288":
+  entity pl_nand_2 at 4( 62) + 0 on 47;
+  architecture comportamento of pl_nand_2 at 13( 201) + 0 on 48;
+file . "pl_nor_2.vhdl" "337a342c309f905aba32e3eb1523e248277f5369" "20250607234903.291":
+  entity pl_nor_2 at 4( 62) + 0 on 49;
+  architecture comportamento of pl_nor_2 at 13( 199) + 0 on 50;
+file . "pl_or_3.vhdl" "9fbb81b1fbffdea240fe8d22789ff648c73454c6" "20250607234903.292":
+  entity pl_or_3 at 4( 62) + 0 on 51;
+  architecture comportamento of pl_or_3 at 14( 218) + 0 on 52;
+file . "pl_or_4.vhdl" "e9faeb89892698c8bd4f6e2284a9cfa8331906ae" "20250607234903.293":
+  entity pl_or_4 at 4( 62) + 0 on 53;
+  architecture comportamento of pl_or_4 at 15( 239) + 0 on 54;
+file . "pl_xnor_2.vhdl" "9cec37caa21cdab094d6d512456d1d9f3d74cde3" "20250607234903.295":
+  entity pl_xnor_2 at 4( 62) + 0 on 55;
+  architecture comportamento of pl_xnor_2 at 13( 201) + 0 on 56;
+file . "pl_xor_2.vhdl" "3b8bfaceafd6991cc5ef636274f98ad134d1566d" "20250607234903.296":
+  entity pl_xor_2 at 4( 62) + 0 on 57;
+  architecture comportamento of pl_xor_2 at 13( 199) + 0 on 58;

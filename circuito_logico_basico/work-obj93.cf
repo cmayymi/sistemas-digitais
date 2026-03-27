@@ -1,0 +1,7 @@
+v 4
+file . "tb_not8bits.vhdl" "e4a3f4cd6253b243273b59904cfd6e2597bbd7a8" "20250727141359.833":
+  entity tb_not8b at 1( 0) + 0 on 21;
+  architecture sim of tb_not8b at 4( 35) + 0 on 22;
+file . "not8bits.vhdl" "8d2e6744ededabbc495d94ed365dd8cff96c3ee7" "20250727141359.830":
+  entity not8b at 1( 0) + 0 on 19;
+  architecture comportamento of not8b at 8( 134) + 0 on 20;

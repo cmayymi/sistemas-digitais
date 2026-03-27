@@ -1,0 +1,13 @@
+v 4
+file . "tb_somador1bit.vhdl" "7d2a0f4d23af23ec0cc76535721ea26731db9d13" "20250715122342.536":
+  entity tb_somador1bit at 1( 0) + 0 on 29;
+  architecture somar of tb_somador1bit at 6( 66) + 0 on 30;
+file . "somador1bit.vhdl" "3bacccf328e1986accc1827cdd88b524250d96f5" "20250715122342.532":
+  entity somador1bit at 1( 0) + 0 on 25;
+  architecture somar of somador1bit at 11( 169) + 0 on 26;
+file . "somador2bit.vhdl" "de1ef27ff4d52889f29bb2aebfcf18aa3baa2929" "20250715122342.534":
+  entity somador2bit at 1( 0) + 0 on 27;
+  architecture somar of somador2bit at 11( 229) + 0 on 28;
+file . "tb_somador2bit.vhdl" "b838a53642a4ce171e3e72339cc96b6f6c3c96ec" "20250715122342.543":
+  entity tb_somador2bit at 1( 0) + 0 on 31;
+  architecture somar of tb_somador2bit at 6( 66) + 0 on 32;

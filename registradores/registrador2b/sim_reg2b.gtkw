@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Wed Nov 19 21:25:46 2025
+[*]
+[dumpfile] "/mnt/c/Users/julya/Downloads/SD - Prof Gabriela/NEANDER/tb_reg2b.ghw"
+[dumpfile_mtime] "Wed Nov 19 21:24:43 2025"
+[dumpfile_size] 1372
+[savefile] "/mnt/c/Users/julya/Downloads/SD - Prof Gabriela/NEANDER/sim_reg2b.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-25.814613 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_reg2b.
+[sst_width] 276
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+top.tb_reg2b.sclk
+top.tb_reg2b.spr
+top.tb_reg2b.scl
+top.tb_reg2b.snrw
+#{top.tb_reg2b.sd[1:0]} top.tb_reg2b.sd[1] top.tb_reg2b.sd[0]
+#{top.tb_reg2b.ss[1:0]} top.tb_reg2b.ss[1] top.tb_reg2b.ss[0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Oct 21 14:09:34 2025
+[*]
+[dumpfile] "/mnt/c/Users/carol/sd/registrador/tb_reg8.ghw"
+[dumpfile_mtime] "Tue Oct 21 14:08:00 2025"
+[dumpfile_size] 3329
+[savefile] "/mnt/c/Users/carol/sd/registrador/reg8bit.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-25.966616 104500000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_reg8.
+[sst_width] 276
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+top.tb_reg8.snrw
+top.tb_reg8.scl
+top.tb_reg8.spr
+top.tb_reg8.sclk
+@24
+#{top.tb_reg8.ss[7:0]} top.tb_reg8.ss[7] top.tb_reg8.ss[6] top.tb_reg8.ss[5] top.tb_reg8.ss[4] top.tb_reg8.ss[3] top.tb_reg8.ss[2] top.tb_reg8.ss[1] top.tb_reg8.ss[0]
+@25
+#{top.tb_reg8.sd[7:0]} top.tb_reg8.sd[7] top.tb_reg8.sd[6] top.tb_reg8.sd[5] top.tb_reg8.sd[4] top.tb_reg8.sd[3] top.tb_reg8.sd[2] top.tb_reg8.sd[1] top.tb_reg8.sd[0]
+[pattern_trace] 1
+[pattern_trace] 0
